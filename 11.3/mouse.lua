@@ -1,0 +1,22 @@
+love = {}
+love.mouse = {}
+
+function love.mouse.getCursor() end
+function love.mouse.getPosition() end
+function love.mouse.getRelativeMode() end
+function love.mouse.getSystemCursor() end
+function love.mouse.getX() end
+function love.mouse.getY() end
+function love.mouse.hasCursor() end
+function love.mouse.isCursorSupported() end
+function love.mouse.isDown() end
+function love.mouse.isGrabbed() end
+function love.mouse.isVisible() end
+function love.mouse.newCursor() end
+function love.mouse.setCursor() end
+function love.mouse.setGrabbed() end
+function love.mouse.setPosition() end
+function love.mouse.setRelativeMode() end
+function love.mouse.setVisible() end
+function love.mouse.setX() end
+function love.mouse.setY() end
